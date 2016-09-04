@@ -12,6 +12,10 @@ color:
   rhythmicContrast: 0.5071685
 layout_spectrum: 0.5860215
 name: Onurataman
+navigation:
+  - name: About
+    url: 'http://www.onurataman.com'
+    type: external
 collections:
   - index:
       path: /
