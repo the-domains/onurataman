@@ -1,3 +1,17 @@
+typography_spectrum: 0.9147926
+color:
+  saturation: 0.8189964
+  brandStrength: 0.7132617
+  lightness: 0.5143369
+  brandColors:
+    - '#232220'
+    - '#FFFFFF'
+    - '#71A6E8'
+    - '#D4D0C5'
+    - '#4F4E4A'
+  rhythmicContrast: 0.5071685
+layout_spectrum: 0.5860215
+name: Onurataman
 collections:
   - index:
       path: /
@@ -10,17 +24,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.8189964
-  brandStrength: 0.7132617
-  lightness: 0.5143369
-  brandColors:
-    - '#232220'
-    - '#FFFFFF'
-    - '#71A6E8'
-    - '#D4D0C5'
-    - '#4F4E4A'
-  rhythmicContrast: 0.5071685
-typography_spectrum: 0.9147926
-layout_spectrum: 0.5860215
-name: Onurataman
+title: Coaching
